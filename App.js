@@ -10,7 +10,7 @@ export default function App() {
     </View>
   );
 }
-const style= { color: 'white', fontSize: 33, paddingLeft: 20, }
+const style= { color: 'white', fontSize: 34, paddingLeft: 20, }
 
 
 const styles = StyleSheet.create({
