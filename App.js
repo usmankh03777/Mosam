@@ -13,7 +13,7 @@ export default function App() {
 const style= { color: 'white', fontSize: 34, paddingLeft: 20, }
 
 // I don't think so that If it works in our country.
-
+// Don;t you think this will be a big problem. Huh
 // But don't you think this will be  enough. Huh
 
 
