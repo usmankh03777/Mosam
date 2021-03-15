@@ -14,6 +14,7 @@ const style= { color: 'white', fontSize: 34, paddingLeft: 20, }
 
 // I don't think so that If it works in our country.
 
+// But don't you think this will be  enough. Huh
 
 
 const styles = StyleSheet.create({
