@@ -12,6 +12,9 @@ export default function App() {
 }
 const style= { color: 'white', fontSize: 34, paddingLeft: 20, }
 
+// I don't think so that If it works in our country.
+
+
 
 const styles = StyleSheet.create({
   container: {
